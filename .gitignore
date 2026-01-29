@@ -1,0 +1,12 @@
+# Ignora as credenciais sensíveis (Obrigatório!)
+.env
+
+# Ignora pastas de cache do Python
+__pycache__/
+
+# Ignora arquivos de sistema e temporários
+.DS_Store
+Thumbs.db
+
+# Opcional: Ignorar a planilha de resultados para não sujar o repo
+resultados_desafios_df.xlsx
